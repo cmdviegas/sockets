@@ -2,7 +2,7 @@
 
 Este repositório contém uma coleção de **exemplos práticos** de Sockets, desenvolvidos em linguagem Python, para fins **didáticos** nas aulas de **Redes de Computadores** da Universidade Federal do Rio Grande do Norte. 
 
-> [!NOTE]\
+> [!TIP]\
 > Cada script pode ser executado diretamente com **Python 3**.
 > 
 > `>_ python3 arquivo.py`
